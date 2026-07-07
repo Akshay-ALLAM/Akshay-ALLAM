@@ -54,8 +54,8 @@ Built Power BI dashboards, cleaned structured datasets, and supported business r
 
 | Program | Institution |
 | --- | --- |
-| MBA in Corporate Finance | ISTEC Business School, Paris |
-| BBA in Business Analytics | Osmania University |
+| MBA in Corporate Finance | ISTEC Business School, Paris, France |
+| BBA in Finance | Osmania University, Hyderabad, India |
 
 ---
 
