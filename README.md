@@ -24,12 +24,9 @@ I build practical AI automation systems that connect business tools, reduce manu
 
 ---
 
-## Featured Automation Projects
+## Portfolio Direction
 
-| Project | What It Does | Stack |
-| --- | --- | --- |
-| [AI-Powered Client Feedback Routing System](https://github.com/Akshay-ALLAM/AI-Powered-Client-Feedback-Routing-System) | Analyzes client feedback, classifies sentiment and urgency, routes issues, and creates AI-enriched records for follow-up. | n8n, Google Sheets, AI classification, Apps Script |
-| [AI B2B Lead Qualification & Google Maps Scraper](https://github.com/Akshay-ALLAM/AI-B2B-Lead-Qualification-Google-Maps-Scraper) | Collects local business leads from Google Maps, qualifies them with AI, generates outreach messages, and saves structured results. | n8n, Apify, Mistral AI, Google Sheets |
+I am building a portfolio around practical AI automation, business analysis, and workflow design. My current repositories are early-stage practice projects while I continue developing stronger case studies with better demos, documentation, and real business context.
 
 ---
 
