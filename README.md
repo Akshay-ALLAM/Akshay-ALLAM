@@ -1,76 +1,119 @@
-# Hi, I'm Akshay Allam
+<div align="center">
 
-**AI Automation Builder | n8n & Make | Strategy & Data Analyst**
+![Header](https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0f172a,55:1e40af,100:22c55e&text=Akshay%20Allam&fontColor=ffffff&fontSize=44&fontAlignY=36&desc=AI%20Automation%20Builder%20%7C%20Strategy%20%26%20Data%20Analyst&descSize=17&descAlignY=58)
 
-I build practical AI automation systems that reduce manual work, connect business tools, and turn messy processes into simple workflows. My background combines business strategy, data analysis, market research, and hands-on automation with tools like n8n, Make, Google Sheets, APIs, and LLMs.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-akshay--allam-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshay-allam)
+[![Email](https://img.shields.io/badge/Email-akshayallam11%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:akshayallam11@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Akshay--ALLAM-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Akshay-ALLAM)
 
-Currently based in **Paris, France** and open to **full-time, internship, freelance, remote, Europe, and India opportunities**.
+**Paris, France | Open to full-time, internships, freelance, remote, Europe & India**
 
-[LinkedIn](https://www.linkedin.com/in/akshay-allam) | [Email](mailto:akshayallam11@gmail.com) | [GitHub](https://github.com/Akshay-ALLAM)
-
----
-
-## What I Build
-
-- AI workflow automations using **n8n**, **Make**, Google Sheets, and API integrations
-- Lead generation, feedback routing, data enrichment, and reporting systems
-- Business dashboards and analysis workflows using **Power BI**, Excel, and structured datasets
-- AI-assisted business tools that help teams save time and make faster decisions
-
-I am currently expanding deeper into **agentic AI**, advanced n8n workflows, Airtable, and multi-tool automation systems.
+</div>
 
 ---
 
-## Featured Projects
+## Building AI Automations With Business Context
 
-### AI-Powered Client Feedback Routing System
-An n8n workflow that analyzes client feedback, classifies sentiment and urgency, routes issues, and creates AI-enriched feedback records for operational follow-up.
+I combine **business strategy, data analysis, and AI automation** to turn manual work into simple, repeatable systems.
 
-**Tools:** n8n, Google Sheets, AI classification, Apps Script, sample data
+My focus is not just building workflows. I care about the business reason behind them: saving time, improving follow-up, reducing manual reporting, and helping teams make faster decisions.
 
-[View Repository](https://github.com/Akshay-ALLAM/AI-Powered-Client-Feedback-Routing-System)
-
-### AI B2B Lead Qualification & Google Maps Scraper
-An automation that collects local business leads from Google Maps through Apify, qualifies each company with AI, generates outreach messages, and saves structured results to Google Sheets.
-
-**Tools:** n8n, Apify, Mistral AI, Google Sheets, lead scoring
-
-[View Repository](https://github.com/Akshay-ALLAM/AI-B2B-Lead-Qualification-Google-Maps-Scraper)
+<table>
+  <tr>
+    <td width="33%">
+      <h3>Automate</h3>
+      <p>n8n, Make, Google Sheets, APIs, LLM workflows, lead routing, feedback processing.</p>
+    </td>
+    <td width="33%">
+      <h3>Analyze</h3>
+      <p>Power BI, Excel, market research, competitive analysis, KPI reporting.</p>
+    </td>
+    <td width="33%">
+      <h3>Translate</h3>
+      <p>Business problems into clear workflows, requirements, dashboards, and action plans.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## Skills & Tools
+## Featured Automation Projects
 
-| Area | Tools & Strengths |
-| --- | --- |
-| AI Automation | n8n, Make, API integrations, LLM-based workflows, prompt engineering |
-| Learning Next | Airtable, advanced no-code databases, agentic AI workflows |
-| Data & Reporting | Power BI, Advanced Excel, Google Sheets, dashboards, KPI reporting |
-| Business Analysis | Requirements gathering, process improvement, stakeholder reporting |
-| Strategy & Research | Market research, competitive analysis, go-to-market thinking, financial analysis |
-| Technical Foundation | Beginner-level SQL and Python, used for data analysis and automation learning |
+<table>
+  <tr>
+    <td width="50%">
+      <h3>AI-Powered Client Feedback Routing System</h3>
+      <p>Analyzes client feedback, classifies sentiment and urgency, routes issues, and creates AI-enriched records for follow-up.</p>
+      <p><b>Stack:</b> n8n, Google Sheets, AI classification, Apps Script</p>
+      <a href="https://github.com/Akshay-ALLAM/AI-Powered-Client-Feedback-Routing-System">View repository</a>
+    </td>
+    <td width="50%">
+      <h3>AI B2B Lead Qualification & Google Maps Scraper</h3>
+      <p>Collects business leads from Google Maps through Apify, qualifies them with AI, generates outreach messages, and saves results to Google Sheets.</p>
+      <p><b>Stack:</b> n8n, Apify, Mistral AI, Google Sheets</p>
+      <a href="https://github.com/Akshay-ALLAM/AI-B2B-Lead-Qualification-Google-Maps-Scraper">View repository</a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Tool Stack
+
+<table>
+  <tr>
+    <td><b>AI Automation</b></td>
+    <td>n8n, Make, API integrations, LLM-based workflows, prompt engineering</td>
+  </tr>
+  <tr>
+    <td><b>Learning Next</b></td>
+    <td>Airtable, advanced no-code databases, agentic AI workflows</td>
+  </tr>
+  <tr>
+    <td><b>Data & Reporting</b></td>
+    <td>Power BI, Advanced Excel, Google Sheets, dashboards, KPI reporting</td>
+  </tr>
+  <tr>
+    <td><b>Business Analysis</b></td>
+    <td>Requirements gathering, process improvement, stakeholder reporting</td>
+  </tr>
+  <tr>
+    <td><b>Strategy & Research</b></td>
+    <td>Market research, competitive analysis, go-to-market thinking, financial analysis</td>
+  </tr>
+  <tr>
+    <td><b>Technical Foundation</b></td>
+    <td>Beginner-level SQL and Python, used for data analysis and automation learning</td>
+  </tr>
+</table>
 
 ---
 
 ## Experience Snapshot
 
-**Market Research Analyst - Certiff B.V.**
-
-Worked on market research, competitor analysis, funding opportunities, and strategic partnership research for SkillsPass, a digital certification platform focused on construction and infrastructure.
-
-**Data Analyst - Artificial Penetration Software Solutions Pvt. Ltd.**
-
-Built Power BI dashboards, cleaned and analyzed structured datasets, and supported reporting workflows for business decision-making.
+<table>
+  <tr>
+    <td width="50%">
+      <h3>Market Research Analyst</h3>
+      <p><b>Certiff B.V.</b></p>
+      <p>Worked on market research, competitor analysis, funding opportunities, and strategic partnership research for SkillsPass, a digital certification platform.</p>
+    </td>
+    <td width="50%">
+      <h3>Data Analyst</h3>
+      <p><b>Artificial Penetration Software Solutions Pvt. Ltd.</b></p>
+      <p>Built Power BI dashboards, cleaned structured datasets, and supported business reporting workflows for decision-making.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## Education
 
-**MBA in Corporate Finance**  
-ISTEC Business School, Paris
-
-**BBA in Business Analytics**  
-Osmania University
+| Program | Institution |
+| --- | --- |
+| MBA in Corporate Finance | ISTEC Business School, Paris |
+| BBA in Business Analytics | Osmania University |
 
 ---
 
@@ -84,10 +127,11 @@ Osmania University
 
 ---
 
-## Let's Connect
+<div align="center">
 
-I am interested in opportunities where I can combine **business analysis, data thinking, and AI automation** to solve practical problems.
+### Let's build practical AI systems that actually save time.
 
-If you are building with AI, automation, data, or business workflows, feel free to connect.
+[![Connect on LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshay-allam)
+[![Send Email](https://img.shields.io/badge/Send%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshayallam11@gmail.com)
 
-[LinkedIn](https://www.linkedin.com/in/akshay-allam) | [Email](mailto:akshayallam11@gmail.com)
+</div>
