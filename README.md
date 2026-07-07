@@ -41,27 +41,14 @@ An automation that collects local business leads from Google Maps through Apify,
 
 ## Skills & Tools
 
-**Automation & AI**
-
-![n8n](https://img.shields.io/badge/n8n-Automation-EA4B71?style=for-the-badge)
-![Make](https://img.shields.io/badge/Make-Automation-6D00CC?style=for-the-badge)
-![Airtable](https://img.shields.io/badge/Airtable-Learning-18BFFF?style=for-the-badge)
-![AI Automation](https://img.shields.io/badge/AI%20Automation-Workflow%20Systems-111827?style=for-the-badge)
-
-**Data & Business**
-
-![Power BI](https://img.shields.io/badge/Power%20BI-Dashboards-F2C811?style=for-the-badge)
-![Excel](https://img.shields.io/badge/Excel-Advanced-217346?style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-Beginner-336791?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-Beginner-3776AB?style=for-the-badge)
-
-**Business Strengths**
-
-- Business analysis and requirements gathering
-- Market research and competitive analysis
-- Financial analysis and business planning
-- Go-to-market strategy and value proposition design
-- AI workflow design and prompt engineering
+| Area | Tools & Strengths |
+| --- | --- |
+| AI Automation | n8n, Make, API integrations, LLM-based workflows, prompt engineering |
+| Learning Next | Airtable, advanced no-code databases, agentic AI workflows |
+| Data & Reporting | Power BI, Advanced Excel, Google Sheets, dashboards, KPI reporting |
+| Business Analysis | Requirements gathering, process improvement, stakeholder reporting |
+| Strategy & Research | Market research, competitive analysis, go-to-market thinking, financial analysis |
+| Technical Foundation | Beginner-level SQL and Python, used for data analysis and automation learning |
 
 ---
 
