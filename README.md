@@ -26,7 +26,7 @@ I build practical AI automation systems that connect business tools, reduce manu
 
 ## Certification
 
-- **Make Intermediate** - Make.com, issued Jul 2026
+- **Make Intermediate** - Make.com, issued Jul 2026. [View certificate](https://akshay-allam.github.io/portfolio/assets/make-intermediate-certificate.pdf)
 
 ---
 
