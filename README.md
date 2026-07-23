@@ -24,10 +24,10 @@ I build practical AI automation systems that connect business tools, reduce manu
 
 ---
 
-## Certification
+## Certifications
 
-- **Make Intermediate** - Make.com, issued Jul 2026. [View certificate](https://akshay-allam.github.io/portfolio/assets/make-intermediate-certificate.pdf)
-- **Manager du Developpement Commercial** - Talis Competences & Certifications, dated Nov 26, 2025
+- **Automation:** Make Intermediate - Make.com, issued Jul 2026. [View certificate](https://akshay-allam.github.io/portfolio/assets/make-intermediate-certificate.pdf)
+- **Business Development:** Manager du Developpement Commercial - Talis Competences & Certifications, dated Nov 26, 2025
 
 ---
 
