@@ -24,6 +24,12 @@ I build practical AI automation systems that connect business tools, reduce manu
 
 ---
 
+## Certification
+
+- **Make Intermediate** - Make.com, issued Jul 2026
+
+---
+
 ## Portfolio Direction
 
 I am building a portfolio around practical AI automation, business analysis, and workflow design. My current repositories are early-stage practice projects while I continue developing stronger case studies with better demos, documentation, and real business context.
